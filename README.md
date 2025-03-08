@@ -1,10 +1,9 @@
-# cartas
 <!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Día Internacional de la Mujer</title>
+    <title>Día Especial para Salomé</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -37,20 +36,25 @@
             font-style: italic;
             color: #777;
         }
+        .princesa {
+            margin-top: 20px;
+            font-size: 1.5em;
+            font-weight: bold;
+            color: #e91e63;
+        }
     </style>
 </head>
 <body>
     <div class="carta">
-        <h1>Día Internacional de la Mujer</h1>
+        <h1>Un Mensaje Especial para Ti, Salomé</h1>
         <p>
-            Queridas mujeres,<br><br>
-            En este día tan especial, queremos reconocer y celebrar vuestra fuerza, valentía y dedicación. Sois el pilar de nuestras familias, comunidades y sociedades, y vuestro esfuerzo y amor no pasan desapercibidos.<br><br>
-            Gracias por vuestra resiliencia, por luchar por vuestros sueños y por ser un ejemplo de superación y empoderamiento. Hoy y siempre, os honramos y apoyamos en vuestra búsqueda de igualdad y justicia.<br><br>
-            ¡Feliz Día Internacional de la Mujer!
+            Querida Salomé,<br><br>
+            Hoy quiero recordarte lo increíblemente hermosa y admirable que eres. No solo por lo que se ve por fuera, sino por tu alma fuerte, tu corazón bondadoso y esa luz única que llevas dentro. <br><br>
+            No todo en la vida es fácil, y no siempre se puede ser fuerte. Está bien llorar, porque las lágrimas no son señal de debilidad, sino de valentía. Pero lo que más admiro en ti es cómo te levantas cada vez con más fuerza, más radiante, y más increíble que nunca. <br><br>
+            Que tengas un hermoso día y una noche llena de paz y amor. Nunca olvides cuánto vales y cuánto te quiero.<br><br>
         </p>
-        <div class="firma">
-            Con cariño y admiración,<br>
-            [Tu nombre o el nombre de tu organización]
+        <div class="princesa">
+            Para la princesa más hermosa: Salomé 💖
         </div>
     </div>
 </body>
